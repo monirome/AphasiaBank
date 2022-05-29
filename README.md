@@ -12,6 +12,4 @@ This repository contains three python scripts for preprocessing and cleaning the
 
 # Dowload the videos and trancripstions
 
-Para la descarga de los videos y transcripciones se hizo uso de [Multi-File Downloader](https://chrome.google.com/webstore/detail/multi-file-downloader/dpecplbkinpdbedgejddhepkgcppgchk?hl=es) tal y como se explican en Accessing TalkBank Data
-
 The videos and transcripts were downloaded using [Multi-File Downloader](https://chrome.google.com/webstore/detail/multi-file-downloader/dpecplbkinpdbedgejddhepkgcppgchk?hl=es) extension as explained in [Accessing TalkBank Data](https://talkbank.org/share/data.html).
