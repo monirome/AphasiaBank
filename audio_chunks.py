@@ -22,6 +22,8 @@ df = pd.read_csv(filepath)
 
 for i in range(len(df)):
        file = glob.glob(f"""audiopath/{df['file'][i]}""", recursive=True)  
-       start=((pd.to_numeric(df['mark_start'][i]))/1000)
-       end=((pd.to_numeric(df['mark_end'][i]))-(pd.to_numeric(df['mark_start'][i])))/1000
+       start=((pd.to_numeric(df['mark_start'][i]))/1000) 
+       end=((pd.to_numeric(df['mark_end'][i]))-(pd.to_numeric(df['mark_start'][i])))/1000 
        os.system(f"""sox {file[0]} {file[0][:-4]}_{start}_{end}.wav trim {start} {end}""")
+
+    
