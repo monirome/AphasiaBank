@@ -1,6 +1,6 @@
 # Preprocessing of transcripts and audios of AphasiaBank 
 
-This repository aims to: clean and pre-process transcripts and obtain their corresponding audio chunks from ApahasiaBank. 
+This repository aims to: clean and pre-process transcripts and obtain their corresponding audio chunks from [AphasiaBank](https://talkbank.org.html). 
 
 # Codes
 
