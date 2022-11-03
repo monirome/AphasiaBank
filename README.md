@@ -10,6 +10,6 @@ This repository contains three python scripts for preprocessing and cleaning the
 2) convert_mp4_wav.py: script that converts the videos of the conversations between researcher and patient from mp4 to wav. At the beginning of this code, change the three dots to the path where the transcripts are located.
 3) audio_chunks.py: script that generates the audio chunk where the patient speaks. 
 
-# Dowload the videos and trancripstions
+# Dowload the videos and transcriptions
 
 The videos and transcripts were downloaded using [Multi-File Downloader](https://chrome.google.com/webstore/detail/multi-file-downloader/dpecplbkinpdbedgejddhepkgcppgchk?hl=es) extension as explained in [Accessing TalkBank Data](https://talkbank.org/share/data.html).
